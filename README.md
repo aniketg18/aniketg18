@@ -56,19 +56,7 @@ I believe in **learning by building**, and my GitHub reflects **real-world proje
 
 ### 📊 Data Visualization  
 - Power BI  
-- Matplotlib / Seaborn  
-
-### 🤖 Machine Learning  
-- Supervised Learning  
-- Regression & Classification  
-- Model training & evaluation  
-- Data-driven decision making  
-
-### 🛠 Backend & APIs (Project-Based Learning)  
-- Django  
-- Django REST Framework  
-- REST APIs  
-- WebSocket (ASGI)  
+- Matplotlib / Seaborn   
 
 ---
 
